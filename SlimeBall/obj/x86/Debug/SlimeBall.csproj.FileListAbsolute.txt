@@ -1,0 +1,14 @@
+C:\Data\SecF_SourceCode\SlimeBall(7)\SlimeBall\bin\Debug\ball.png
+C:\Data\SecF_SourceCode\SlimeBall(7)\SlimeBall\bin\Debug\net.png
+C:\Data\SecF_SourceCode\SlimeBall(7)\SlimeBall\bin\Debug\slimer.png
+C:\Data\SecF_SourceCode\SlimeBall(7)\SlimeBall\bin\Debug\SlimeBall.exe
+C:\Data\SecF_SourceCode\SlimeBall(7)\SlimeBall\bin\Debug\SlimeBall.pdb
+C:\Data\SecF_SourceCode\SlimeBall(7)\SlimeBall\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Data\SecF_SourceCode\SlimeBall(7)\SlimeBall\obj\x86\Debug\SlimeBall.frmGame.resources
+C:\Data\SecF_SourceCode\SlimeBall(7)\SlimeBall\obj\x86\Debug\SlimeBall.Properties.Resources.resources
+C:\Data\SecF_SourceCode\SlimeBall(7)\SlimeBall\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Data\SecF_SourceCode\SlimeBall(7)\SlimeBall\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Data\SecF_SourceCode\SlimeBall(7)\SlimeBall\obj\x86\Debug\SlimeBall.exe
+C:\Data\SecF_SourceCode\SlimeBall(7)\SlimeBall\obj\x86\Debug\SlimeBall.pdb
+C:\Data\SecJ_SourceCode\SlimeBall_PresentedVersion\SlimeBall\obj\x86\Debug\SlimeBall.exe
+C:\Data\SecJ_SourceCode\SlimeBall_PresentedVersion\SlimeBall\obj\x86\Debug\SlimeBall.pdb
